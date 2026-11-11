@@ -1,0 +1,6 @@
+modelo: geometry.bagon
+textura: 64x32, 25 cores, 79% ocupada; UV: 1 (box UV)
+ossos: 35   cubos: 41   rotacionados: 8   inflate: 21   planos (espessura 0): 6
+caixa: x -6.5..6.5  y 0.0..18.2  z -5.0..4.0
+tamanho do maior lado dos cubos: menor 1, mediana 3, maior 8
+ossos: bagon, body, torso, chest, neck, head, eyes, eye_left, pupil_left, locator_eye_left, eyelid_left, eye_right, pupil_right, locator_eye_right, eyelid_right, jaw, muzzle, hair, hair_left, hair_right, hair_back, hair_back2, hair_back3, arms, arm_left, arm_left2, arm_right, arm_right2, legs, leg_left, leg_left2, foot_left, leg_right, leg_right2, foot_right

@@ -1,0 +1,6 @@
+modelo: geometry.totodile
+textura: 128x64, 41 cores, 43% ocupada; UV: 1 (box UV)
+ossos: 44   cubos: 45   rotacionados: 13   inflate: 15   planos (espessura 0): 16
+caixa: x -10.5..10.5  y 0.0..23.0  z -12.0..13.5
+tamanho do maior lado dos cubos: menor 1, mediana 5, maior 10
+ossos: totodile, body, torso, torso2, head, locator_mouth, locator_item_face, locator_face, locator_item_hat, locator_head, eyes, eye_right, locator_eye_right, eyelid_right, eye_left, locator_eye_left, eyelid_left, muzzle, muzzle2, locator_jaw_upper, jaw, locator_jaw_lower, arm_right, locator_item, locator_hand_primary, arm_left, locator_hand_secondary, tail, tail2, locator_tail, tail3, locator_tail_tip, leg_right, foot_right, locator_foot_primary, foot_right2, leg_left, foot_left, locator_foot_secondary, foot_left2, locator_target, locator_middle, locator_root, locator_top

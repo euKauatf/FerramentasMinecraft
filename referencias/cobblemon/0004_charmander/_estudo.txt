@@ -1,0 +1,6 @@
+modelo: geometry.charmander
+textura: 64x64, 22 cores, 56% ocupada; UV: 1 (box UV)
+ossos: 56   cubos: 55   rotacionados: 17   inflate: 7   planos (espessura 0): 27
+caixa: x -10.5..10.5  y 0.0..21.0  z -6.3..19.0
+tamanho do maior lado dos cubos: menor 1, mediana 3, maior 8
+ossos: charmander, locator_root, locator_top, body, locator_target, locator_middle, torso, torso2, neck, head, head_correction, head_ai, head_angle, locator_item_hat, locator_head, locator_mouth, locator_item_face, locator_face, muzzle, locator_jaw_upper, jaw, locator_jaw_lower, eyes, eye_right, locator_eye_right, eyelid_right, eye_left, locator_eye_left, eyelid_left, arms, arm_right, elbow_right, locator_hand_primary, locator_item, arm_left, elbow_left, locator_hand_secondary, tail, tail2, locator_tail, tail3, locator_tail_tip, fire, fire2, locator_fire, legs, leg_right, knee_right, foot_right, locator_foot_primary, foot_right2, leg_left, knee_left, foot_left, locator_foot_secondary, foot_left2

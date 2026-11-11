@@ -1,0 +1,9 @@
+# coisas pesadas que cada computador baixa sozinho
+venv/
+Blockbench/
+.tmp/
+.pip-cache/
+__pycache__/
+*.pyc
+# arquivos do Minecraft extraídos (o vanilla.py extrai de novo)
+referencias/minecraft/

@@ -1,0 +1,6 @@
+modelo: geometry.charmeleon
+textura: 128x64, 23 cores, 38% ocupada; UV: 1 (box UV)
+ossos: 58   cubos: 61   rotacionados: 14   inflate: 18   planos (espessura 0): 26
+caixa: x -19.0..19.0  y 0.0..28.0  z -6.8..25.0
+tamanho do maior lado dos cubos: menor 1, mediana 3, maior 10
+ossos: charmeleon, locator_root, locator_top, body, locator_target, locator_middle, torso, torso2, neck, head, muzzle, locator_jaw_upper, locator_item_face, locator_face, locator_item_hat, locator_head, locator_mouth, jaw, locator_jaw_upper2, eyes, eye_right, locator_eye_right, eyelid_right, eye_left, locator_eye_left, eyelid_left, shoulder_right, arm_right, elbow_right, hand_right, locator_item, locator_hand_primary, claws_right, shoulder_left, arm_left, elbow_left, hand_left, locator_hand_secondary, claws_left, tail, tail2, tail3, locator_tail, tail4, locator_tail_tip, fire, locator_fire, legs, leg_left, knee_left, foot_left, locator_foot_secondary, foot_left2, leg_right, knee_right, foot_right, locator_foot_primary, foot_right2
